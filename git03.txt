@@ -1,0 +1,2 @@
+git 测试远程推送文件  将文件推送到自己的库中
+git push -u origin main
